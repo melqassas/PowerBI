@@ -1,8 +1,11 @@
-Filled Map: Saudi Arabia Provinces
+**Power BI Filled Map: Saudi Arabia Provinces**
 
-> Diaply Saudi Arabia Provinces in Filled Map Visual in PowerBI
+**Folder content**
 
-Check the details at https://social.technet.microsoft.com/wiki/contents/articles/53402.power-bi-filled-map-saudi-arabia-provinces.aspx
+- Data Sourec: List of Saudi Arabia Provinces with its lantitiude and langatuide location data. 
+- PowerBI file: Diaply Saudi Arabia Provinces in Filled Map Visual in PowerBI.
+
+Check the details at [Power BI Filled Map: Saudi Arabia Provinces](https://social.technet.microsoft.com/wiki/contents/articles/53402.power-bi-filled-map-saudi-arabia-provinces.aspx)
 
 ---------------------------
 
