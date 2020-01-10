@@ -5,4 +5,4 @@
 Description: PBIX samples with data sources
 
 - Filled Map - Egypt Governorate.
-- Filled Map -Saudi Arabia Provinces.
+- Filled Map - Saudi Arabia Provinces.
