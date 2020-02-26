@@ -1,6 +1,6 @@
-# Calculate The Project Status In Power BI
+# Calculate Project Status In Power BI
 
-![Project Server: Calculate The Project Status In Power BI][1]
+![Project Server: Calculate Project Status In Power BI][1]
 
   [1]: https://spgeeks.devoworx.com/wp-content/uploads/2020/02/Calculate-Project-Status-In-PowerBI.png
   
