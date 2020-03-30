@@ -6,10 +6,6 @@
 - [Filled Map - Saudi Arabia Provinces.](https://github.com/melqassas/PowerBI/tree/master/Filled%20Map%20-Saudi%20Arabia%20Provinces)
 - [Calculate Project Status In Power BI.](https://github.com/melqassas/PowerBI/tree/master/Calculate%20Project%20Status%20In%20Power%20BI)
 
- --------------
- 
-**Have a Question, Please ask [deBUG.to](https://deBUG.to) Community** | **[Mohamed El-Qassas](https://devoworx.com)**
-
 # See Also
 
 - [Install and Configure Power BI Report Server On-Prem](https://spgeeks.devoworx.com/install-and-configure-power-bi-report-server/)
@@ -22,3 +18,7 @@
 - [Power BI: Import Mode Vs DirectQuery Mode](https://social.technet.microsoft.com/wiki/contents/articles/53078.power-bi-import-mode-vs-directquery-mode.aspx)
 - [Power BI: Switch from Import to DirectQuery Mode](https://spgeeks.devoworx.com/switch-import-to-directquery-mode-powerbi/)
 - [Show and Sort Slicer By Month or Quarter Name in Power BI](https://spgeeks.devoworx.com/show-and-sort-slicer-by-month-name-in-power-bi/)
+
+ --------------
+ 
+**Have a Question, Please ask [deBUG.to](https://deBUG.to) Community** | **[Mohamed El-Qassas](https://devoworx.com)**
