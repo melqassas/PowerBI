@@ -11,7 +11,8 @@ Find a PIBX file that help you to do the following:
 - Extract Upper case characters.
 - Extract Lower case characters.
 
-![use slicer value in dax formula](https://debug.to/?qa=blob&qa_blobid=17945007612807525453)
+![Power BI Extract only characters and numbers](https://user-images.githubusercontent.com/49816567/97620843-25841700-1a33-11eb-90a5-10fc83495e16.png)
+
   
 For more details, Please, Check 
 
