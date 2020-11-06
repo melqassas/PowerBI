@@ -12,7 +12,7 @@ In this a PIBX file we have introduced 5 different workarounds to show Power BI 
 
 ## 2 ) Using Y-Axis concatenations
 
-![power bi bar chart from left to right - option 4](https://user-images.githubusercontent.com/49816567/98340936-2c0c2300-201f-11eb-86cd-ad74549ef42f.png)
+![power bi bar chart from left to right - option 7](https://user-images.githubusercontent.com/49816567/98361457-9d0e0380-203c-11eb-9e2c-961f46435231.png)
 
 ## 3 ) Using Y-Axis Postion
 
