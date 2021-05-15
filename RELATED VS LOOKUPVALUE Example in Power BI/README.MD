@@ -4,7 +4,7 @@
 
 # [RELATED VS LOOKUPVALUE Example in Power BI](https://devoworx.net/power-bi-related-vs-lookupvalue-dax/)
 
-In this PIBX file, you can find a simple example to learn how to use RELATED() DAX function and LOOKUPVALUE() DAX function in Power BI.
+In this PIBX file, you can find a simple example to learn how to use `RELATED()` DAX function and `LOOKUPVALUE()` DAX function in Power BI.
 
 ![RELATED VS LOOKUPVALUE Example in Power BI](https://devoworx.net/wp-content/uploads/2021/05/Lookupvalue-vs-related-comparison-in-Power-BI.png)
 
