@@ -1,4 +1,4 @@
-![Power BI Custom Sort Order Stacked Bar Chart](https://user-images.githubusercontent.com/49816567/157778831-503a2c7c-63a0-4c17-89f8-607956b98d9a.png)
+![Power BI Custom Sort Order Stacked Bar Chart](https://user-images.githubusercontent.com/49816567/157795732-90bf59ba-e76f-4985-8eaf-0dd47211f91f.png)
 
 
 # [Power BI sort Stacked Bar Chart in a Custom Order](https://devoworx.net/power-bi-custom-sort-order-bar-chart/)
