@@ -9,7 +9,7 @@ Find a PIBX file that help you to learn how to use  Power BI DAX bitwise functio
 - BITLSHIFT,
 - BITRSHIFT.
 
-![How to use Power BI DAX Bitwise Operations?](https://i0.wp.com/devoworx.net/wp-content/uploads/2022/03/bitand1.jpg)
+![Power BI Bitwise DAX Operation](https://user-images.githubusercontent.com/49816567/158723873-ec88a06a-b40c-4ef7-85be-8820923778bb.png)
 
 
   
