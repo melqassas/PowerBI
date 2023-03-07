@@ -12,7 +12,7 @@ Find a PIBX file that help you to perform custom sort order in Power BI Stacked 
 ![Power BI Custom Sort order in Bar Chart](https://user-images.githubusercontent.com/49816567/157779184-9e8de6ba-5b5c-4aa7-a53f-e912d1b16206.png)
 
   
-For more details, Please, Check **[Custom Sorting in Power BI](https://devoworx.net/power-bi-custom-sort-order-bar-chart/)**
+For more details, Please, Check **[Custom Sorting in Power BI](https://devoworx.net/power-bi-custom-sort-order-bar-chart/).**
 
 
 --------------
