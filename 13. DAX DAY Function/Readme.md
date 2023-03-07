@@ -7,7 +7,7 @@ In this PIBX file we have provided examples that would help you to use DAX DAY f
 ![use DAY DAX function in Power BI](https://user-images.githubusercontent.com/49816567/159190453-27c7a1a4-574d-4c40-b575-1d487d43601c.png)
 
   
-For more details, Please, Check **[How to use DAX DAY Function in Power BI?](https://devoworx.net/dax-day-function/)**
+For more details, Please, Check **[How to use DAX DAY Function in Power BI?](https://devoworx.net/dax-day-function/).**
 
 
 --------------
