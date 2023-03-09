@@ -2,7 +2,7 @@
 
 # [How to use DAX DATEDIFF in Power BII?](https://devoworx.net/dax-datediff-powerbi/)
 
-In this PIBX file, we have provided examples that would help you to understand and use DAX DATEDIFF function in Power BI to to calculate time intervals between two dates in SECOND, MINUTE, HOUR, DAY, WEEK, MONTH, QUARTER, YEAR.
+In this PIBX file, we have provided examples that would help you to understand how to use use DAX DATEDIFF function in Power BI to to calculate time intervals between two dates in SECOND, MINUTE, HOUR, DAY, WEEK, MONTH, QUARTER, YEAR.
 
 
 ![DateDiff in PowerBI](https://user-images.githubusercontent.com/49816567/160053657-7a330ef7-9f7f-4cdf-ad2e-5ceab8b24ef3.png)
