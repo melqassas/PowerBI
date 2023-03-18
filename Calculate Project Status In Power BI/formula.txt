@@ -1,4 +1,0 @@
-Project Status = 
-IF('MSP_EpmProject_UserView'[ProjectStartDate]>TODAY(),"Not Started",
-IF(and('MSP_EpmProject_UserView'[ProjectStartDate]<=TODAY() ,'MSP_EpmProject_UserView'[ProjectFinishDate]>=TODAY()),"In Progress",
-IF('MSP_EpmProject_UserView'[ProjectFinishDate]<TODAY(),"Finished","Not Set")))
