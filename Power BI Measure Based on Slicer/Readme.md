@@ -7,7 +7,7 @@ Find a PIBX file that help you to use the slicer value in a Measure DAX formula 
 
 ![use slicer value in dax formula](https://user-images.githubusercontent.com/49816567/97312546-a34ef380-1876-11eb-919c-6a4492ee7512.gif)
   
-For more details, Please, Check **[Power BI measure based on slicer](https://debug.to/890/power-bi-measure-based-on-slicer)**
+For more details, Please, Check this link **[Power BI measure based on slicer](https://debug.to/890/power-bi-measure-based-on-slicer)**
 
 
 --------------
